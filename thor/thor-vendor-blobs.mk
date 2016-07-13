@@ -84,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/thor/proprietary/bin/qseecom_sample_client:system/bin/qseecom_sample_client \
     vendor/amazon/thor/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/amazon/thor/proprietary/bin/qseecom_security_test:system/bin/qseecom_security_test \
-    vendor/amazon/thor/proprietary/bin/qseecomd_static:system/bin/qseecomd_static \
     vendor/amazon/thor/proprietary/bin/radish:system/bin/radish \
     vendor/amazon/thor/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/amazon/thor/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
@@ -410,6 +409,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/thor/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so \
     vendor/amazon/thor/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so \
     vendor/amazon/thor/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
+    vendor/amazon/thor/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/amazon/thor/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/amazon/thor/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/amazon/thor/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
